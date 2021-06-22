@@ -1,0 +1,7 @@
+lark-parser
+PySimpleGUI
+
+# Formatting and linting
+black
+mypy
+pylint

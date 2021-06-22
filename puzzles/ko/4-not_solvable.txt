@@ -1,0 +1,8 @@
+# INVERSION SUM = 59
+# 59 IS ODD => NOT SOLVABLE
+4
+13 10 11 6
+5 7 4 8
+1 12 14 9
+3 15 2 0
+# Source: https://mathworld.wolfram.com/15Puzzle.html

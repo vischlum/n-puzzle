@@ -1,0 +1,3 @@
+#GRID OF SIZE ONE
+1
+0
