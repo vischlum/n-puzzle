@@ -112,7 +112,7 @@ For Linear Conflicts, the second CPU time is with [`@cache`](https://docs.python
 |        | Manhattan | No results after 15 minutes and 10 GB of RAM         |
 |        | Linear    | 58    | 2 443 951       | 4 425 050       | 155s / 255s|
 
-#### Comparison between standard and greedy search
+### Comparison between standard and greedy search
 | Puzzle | Heuristic | Moves | Time complexity | Size complexity | CPU time |
 |--------|-----------|-------|-----------------|-----------------|----------|
 | [3-random_1.txt](puzzles/ok/3-random_1.txt)                               |
