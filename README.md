@@ -17,6 +17,8 @@ The script has various flags:
 - `--shape` to choose the shape of the solution. Options are `ascending`, `descending`, `spiral` (default) and `random`
 - `--visualiser` (or `-v`) to enable the GUI visualiser for the solution
 
+<img src="https://github.com/vischlum/n-puzzle/blob/master/screenshot.png" height="300">
+
 ## A\* and heuristics
 A\* is a graph-traversal algorithm that uses a heuristic function to get the best result. At each iteration of its main loop, A\* selects the path that minimizes *f(n) = g(n) + h(n)*:
 - *n* is the next node on the path
